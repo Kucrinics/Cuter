@@ -1,0 +1,20 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# sandbox additions
+.gradle/
+.kotlin/
+.idea/
+build/
+app/build/
+local.properties
+keystore.properties
+keystore/
+*.jks
+*.idsig
